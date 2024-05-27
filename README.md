@@ -28,3 +28,12 @@ Created following Bhrugen Patel's Udemy course, ".NET Core MVC - The Complete Gu
   - **Password:** Admin123*
 - **Configuration Notes:** Ensure proper configuration by replacing placeholder values in the `appsettings.json` file with your own Stripe API keys.
 - **Test Card Details:** Utilize Stripe's test cards using numbers 4 and 2 for simulating credit card transactions.
+
+### Screenshots
+
+![Home](https://github.com/BotoZ/Bookstore/assets/164318311/265f9604-7d30-4865-a18a-01694e14b183)
+![collage](https://github.com/BotoZ/Bookstore/assets/164318311/70bea5cf-d534-4cb4-82db-5a844bb30a5e)
+![various_collage](https://github.com/BotoZ/Bookstore/assets/164318311/6ea3c74c-0027-4606-b3f0-6da6ff40f984)
+![order_collage](https://github.com/BotoZ/Bookstore/assets/164318311/494f0f7c-e32d-413f-8bb5-81486bdb71ab)
+
+

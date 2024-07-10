@@ -1,4 +1,4 @@
-# Project Title: .NET Core MVC E-Commerce Application
+# Bookstore
 
 ## Description
 
